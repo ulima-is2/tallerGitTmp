@@ -3,7 +3,7 @@ Just for practicing
 
 # Saludos
 ```
-buenos días!
+bonjour :)
 ```
 
 # Billy Grados
